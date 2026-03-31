@@ -35,7 +35,6 @@ With the assistance of artificial intelligence, we no longer have to explore and
 
 Life cannot be repeated, but we can take fewer detours and leave fewer regrets with the wisdom of our predecessors; the life of an individual is limited, but the wisdom of human beings is infinite. The Human Fulfillment Project officially sets off at this moment.
 
-- [Human Fulfillment Project（人类补完计划）项目说明](./Human%20Fulfillment%20Project%EF%BC%88%E4%BA%BA%E7%B1%BB%E8%A1%A5%E5%AE%8C%E8%AE%A1%E5%88%92%EF%BC%89%E9%A1%B9%E7%9B%AE%E8%AF%B4%E6%98%8E.md)
 
 ## What This Repository Is
 
